@@ -1,0 +1,7 @@
+1. Ajouter le code pour tester si les shaders sont supportes
+2. Implementer le code pour un vertex shader pour 'comment'
+3. Lire le pdf
+4. Rajouter effet de pixelisation dans le jeu Puzzle pour les switch gauche et droite et transformer le projet en un unique .vscode
+5. Piquer la div blanche de bas dans l'exemple des shaders pour montrer les options du jeu puzzle
+6. Utiliser clock.getElapsedTime
+7. Nettoyer le code
